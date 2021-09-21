@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alok Dhiman
 - 👀 I’m interested in Backend Development And Machine Learning
-- 🌱 I’m currently learning React.js and Express.js
 - 📫 You can reach me at alokdhiman018@gmail.com
 
 <!---
