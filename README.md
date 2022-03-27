@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok301995&label=Profile%20views&color=0e75b6&style=flat" alt="alok301995" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **React , Django**
 
 - 💬 Ask me about **C, React ,Socket Programming**
 
