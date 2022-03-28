@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React , Django**
 
-- 💬 Ask me about **C, React ,Socket Programming**
+- 💬 Ask me about **C, React **
 
 - 📫 How to reach me **alokdhiman018@gmail.com**
 
